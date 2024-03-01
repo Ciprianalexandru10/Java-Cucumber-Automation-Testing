@@ -4,13 +4,13 @@ This repository hosts a Java automation testing framework using Cucumber. It ena
 
 Tech Stack Summary:
 
-Programming Language: Java
-Testing Framework: Cucumber
-Maven: Maven 
-XML Parsing: DOM Parser
-Date Manipulation: Java 8 Date and Time API
-Regular Expressions: Java Regular Expressions (java.util.regex package)
-Reporting: Cucumber Reporting: cucumber-html-reporter
-Version Control System: Git
+Programming Language: Java;
+Testing Framework: Cucumber;
+Maven: Maven;
+XML Parsing: DOM Parser;
+Date Manipulation: Java 8 Date and Time API;
+Regular Expressions: Java Regular Expressions (java.util.regex package);
+Reporting: Cucumber Reporting: cucumber-html-reporter;
+Version Control System: Git;
 
 
